@@ -1,0 +1,2 @@
+/old-page /new-page 301
+/blog/* /new-blog/:splat 200
