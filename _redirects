@@ -1,2 +1,2 @@
-/old-page /new-page 301
-/blog/* /new-blog/:splat 200
+/news-project/old-page /news-project/new-page 301
+/news-project/blog/* /news-project/new-blog/:splat 200
